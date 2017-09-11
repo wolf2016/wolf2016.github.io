@@ -3,7 +3,7 @@ This small app flattens nested arrays. It runs in browser.
 
 
 ## Getting Started:
-For access: www.linktohtmlpage.com/changeme
+For access: https://wolf2016.github.io/
 
 
 
