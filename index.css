@@ -38,7 +38,12 @@ label {
 
 #userInput, #testInput{
   width: 49%;
-  margin-right: 2%;
+  float: left;
+  height: 250px;
   margin-bottom: 15px;
+}
+
+#userOutput{
+  margin-top: 10px;
 }
 
