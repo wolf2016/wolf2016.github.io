@@ -3,7 +3,7 @@ This small app flattens nested arrays. It runs in browser.
 
 
 ## Getting Started:
-For access: https://wolf2016.github.io/arrayflattener/
+For access: https://Valencia2019.github.io/arrayflattener/
 
 ## Use:
 1. Enter an array into the input field on the page where it says "Input an array:".
