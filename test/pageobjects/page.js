@@ -9,6 +9,6 @@ module.exports = class Page {
     */
     open () {
         //return browser.url(`https://valencia2019.github.io/arrayflattener/`)
-            return browser.url(`file:///E:/dev/arrayflattener/index.html`)
+            return browser.url(`https://valencia2019.github.io/arrayflattener/`)
     }
 }
