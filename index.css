@@ -31,19 +31,17 @@ button {
   border-color: #83bd31;
 }
 
+#userInput{
+  text-align: left;
+  padding-top: 25px;
+  padding-left: 675px;
+}
+
 label {
   font-weight: bold;
   color: #83bd31;
 }
 
-#userInput, #testInput{
-  width: 49%;
-  float: left;
-  height: 250px;
-  margin-bottom: 15px;
-}
-
 #userOutput{
   margin-top: 10px;
 }
-
