@@ -1,28 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title>Array Flattener</title>
 	<script type="text/javascript" src="script.js"></script>
 	<link rel="stylesheet" href="index.css">
 	<link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.jpg" />
 </head>
-<body onload="flattenerTests()">
-	<h2>Array Flattener</h2>
-	<div class=wrapper>
+<body>
+	<h2 id='header'>Array Flattener</h2>
+	<div class="wrapper">
 		<div id="userInput">
 			<div>
 				<label id="userLabel">Input an array:</label></br>
 				<input type="text" id="array"/>
-				<button onclick="verify(array.value)">Submit</button>
+				<button id="submit" onclick="verify(array.value)">Submit</button>
 			</div>
 			<div id="userOutput">
 				<label>Flattened arrays return here:</label></br>
 				<div id="flat"></div>
-			</div>
-		</div>
-		<div class="testInput">
-			<label id="testLabel">A list of test arrays:</label></br>
-			<div id="tests">
 			</div>
 		</div>
 	</div>

@@ -1,0 +1,29 @@
+{
+  "name": "arrayflattener",
+  "version": "1.0.0",
+  "description": "This small app flattens nested arrays. It runs in browser.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valencia2019/arrayflattener.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valencia2019/arrayflattener/issues"
+  },
+  "homepage": "https://github.com/Valencia2019/arrayflattener#readme",
+  "devDependencies": {
+    "@wdio/cli": "^6.12.1",
+    "@wdio/local-runner": "^6.12.1",
+    "@wdio/mocha-framework": "^6.11.0",
+    "@wdio/spec-reporter": "^6.11.0",
+    "@wdio/sync": "^6.11.0",
+    "chromedriver": "^88.0.0",
+    "wdio-chromedriver-service": "^6.0.4"
+  }
+}
